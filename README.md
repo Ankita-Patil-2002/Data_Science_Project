@@ -12,7 +12,7 @@ This project demonstrates how to classify a patient’s medical condition—such
 * **Named Entity Recognition (NER)**: Used **spaCy** to extract relevant named entities like drug names, symptoms, or dosage mentions.
 * **Machine Learning Models**:
 
-  * Trained using **Random Forest**, **Logistic Regression**, **XGBoost**, and **LightGBM**
+  * Trained using **Random Forest**, **Logistic Regression**
   * Achieved up to **95% accuracy** in classifying the condition.
 * **Evaluation Metrics**: Accuracy, Precision, Recall, Confusion Matrix.
 * **Visualizations**:
